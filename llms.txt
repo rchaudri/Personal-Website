@@ -9,8 +9,8 @@ GitHub: https://github.com/rchaudri
 
 ## High-Signal Summary
 
-- Rohan Chaudri builds applied AI products from prototype to real use.
-- His experience spans private AI products, GPT-5.1 and Gemini 3 Pro integrations, natural language processing, predictive modeling, customer research, and product strategy.
+- Rohan Chaudri is a machine learning engineer and product-minded data scientist with hands-on work in real-time conversation analysis, finance and wildfire risk agents, and myoelectric hardware.
+- His experience spans private model integrations, GPT-5.1 and Gemini 3 Pro integrations, natural language processing, predictive modeling, customer research, and product strategy.
 - He has more than two years of hands-on experience across artificial intelligence, analytics, and product work.
 - He is fluent in Mandarin Chinese and brings an international economics perspective.
 
