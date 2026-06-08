@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohanchaudri.com/sitemap.xml
+LLM-Profile: https://rohanchaudri.com/llms.txt

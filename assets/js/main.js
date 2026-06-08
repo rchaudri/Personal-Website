@@ -6,8 +6,3 @@ document.querySelectorAll('.reveal').forEach(el=>{
   },{threshold:.12});
   io.observe(el);
 });
-// Parallax
-window.addEventListener('scroll', ()=>{
-  const y = Math.min(40, window.scrollY * 0.05);
-  document.querySelectorAll('.hero').forEach(h=>h.style.setProperty('--parallax', y+'px'));
-});

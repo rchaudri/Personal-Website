@@ -1,0 +1,55 @@
+# Rohan Chaudri
+
+Professional profile for Rohan Chaudri, a machine learning engineer, product builder, and data scientist.
+
+Canonical site: https://rohanchaudri.com/
+Contact: rohanchaudri@berkeley.edu
+LinkedIn: https://www.linkedin.com/in/rohanchaudri/
+GitHub: https://github.com/rchaudri
+
+## High-Signal Summary
+
+- Rohan Chaudri builds practical machine-learning products that turn complex data into clear decisions.
+- His experience spans private artificial intelligence systems, large language model integration, natural language processing, predictive modeling, customer research, and product strategy.
+- He has more than two years of hands-on experience across artificial intelligence, analytics, and product work.
+- He is fluent in Mandarin Chinese and brings an international economics perspective.
+
+## Education
+
+- University of California, Berkeley: Bachelor of Arts in Data Science, 2020-2024.
+- Georgia Institute of Technology: Master of Science in Computational Data Science, 2024-2026, in progress.
+- Coursework includes applied natural language processing, analytics modeling, database systems, data structures, probability and inference, data engineering, and data ethics.
+
+## Recognition
+
+- United States Senate Certificate of Commendation for Distinguished Achievement, signed by United States Senator Dianne Feinstein on July 12, 2019.
+- The Senate commendation recognized participation in the Congressional Academy for American History and Civics and dedication to American civics.
+- Winner, Alameda County Science and Engineering Fair for a myoelectric bionic hand.
+- Perfect SAT Math score: 800.
+- Perfect SAT Biology score: 800.
+- Google Cloud Data Analytics Certificate, issued in 2025 and valid through 2028.
+
+## Projects
+
+- Real-Time Meeting Coach: private machine-learning pipeline that analyzes more than ten conversation signals and uses GPT-4 and Gemini for adaptive feedback.
+- CFO Agent: finance assistant that parses financial statements, generates insights, compares benchmarks, supports forecasting, and preserves private-deployment requirements.
+- Wildfire Risk Agent: geospatial risk forecasting system trained on the United States Wildfires Database for utility risk analysis.
+- Artificial Intelligence Game Engine: minimax search with alpha-beta pruning, improving decisions from minutes to seconds.
+- Enigma Machine Simulator: historically accurate rotor, reflector, and plugboard simulation for encryption and decryption.
+- Myoelectric Bionic Hand: six-year independent engineering project using muscle-signal sensors, signal processing, intent classification, 3D-printed parts, motors, and tendon-like strings.
+
+## Skills
+
+- Programming and data: Python, Java, SQL, web APIs, Pandas.
+- Systems and frameworks: FastAPI, Flask, Streamlit.
+- Machine learning: random forest models, nearest-neighbor models, generalized linear models, natural language processing, prompt engineering.
+- Product: user interviews, product requirements, market requirements, roadmaps, self-service analytics, stakeholder communication.
+
+## Source Pages
+
+- Homepage: https://rohanchaudri.com/
+- Experience: https://rohanchaudri.com/experience.html
+- Projects: https://rohanchaudri.com/projects.html
+- Education and recognition: https://rohanchaudri.com/education.html
+- Recommendations: https://rohanchaudri.com/recommendations.html
+- Contact: https://rohanchaudri.com/contact.html
