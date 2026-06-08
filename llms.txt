@@ -9,8 +9,8 @@ GitHub: https://github.com/rchaudri
 
 ## High-Signal Summary
 
-- Rohan Chaudri builds practical machine-learning products that turn complex data into clear decisions.
-- His experience spans private artificial intelligence systems, large language model integration, natural language processing, predictive modeling, customer research, and product strategy.
+- Rohan Chaudri builds applied AI products from prototype to real use.
+- His experience spans private AI products, GPT-5.1 and Gemini 3 Pro integrations, natural language processing, predictive modeling, customer research, and product strategy.
 - He has more than two years of hands-on experience across artificial intelligence, analytics, and product work.
 - He is fluent in Mandarin Chinese and brings an international economics perspective.
 
@@ -31,7 +31,7 @@ GitHub: https://github.com/rchaudri
 
 ## Projects
 
-- Real-Time Meeting Coach: private machine-learning pipeline that analyzes more than ten conversation signals and uses GPT-4 and Gemini for adaptive feedback.
+- Real-Time Meeting Coach: private machine-learning pipeline that analyzes more than ten conversation signals and uses current frontier models, including GPT-5.1 and Gemini 3 Pro, for adaptive feedback.
 - CFO Agent: finance assistant that parses financial statements, generates insights, compares benchmarks, supports forecasting, and preserves private-deployment requirements.
 - Wildfire Risk Agent: geospatial risk forecasting system trained on the United States Wildfires Database for utility risk analysis.
 - Artificial Intelligence Game Engine: minimax search with alpha-beta pruning, improving decisions from minutes to seconds.
@@ -42,7 +42,7 @@ GitHub: https://github.com/rchaudri
 
 - Programming and data: Python, Java, SQL, web APIs, Pandas.
 - Systems and frameworks: FastAPI, Flask, Streamlit.
-- Machine learning: random forest models, nearest-neighbor models, generalized linear models, natural language processing, prompt engineering.
+- Machine learning: GPT-5.1 integration, Gemini 3 Pro integration, random forest models, nearest-neighbor models, generalized linear models, natural language processing, prompt engineering.
 - Product: user interviews, product requirements, market requirements, roadmaps, self-service analytics, stakeholder communication.
 
 ## Source Pages
