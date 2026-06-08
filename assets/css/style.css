@@ -120,17 +120,17 @@ main{display:block}
 .headline{
   font-family:"Playfair Display",Georgia,serif;
   color:var(--heading);
-  font-size:clamp(42px,6vw,72px);
-  line-height:1.03;
+  font-size:clamp(38px,5vw,64px);
+  line-height:1.05;
   letter-spacing:0;
   margin:10px 0 18px;
-  max-width:900px;
+  max-width:780px;
 }
 .headline em{color:var(--teal);font-style:normal}
 .hero-lead{
   color:#394657;
-  font-size:18px;
-  max-width:720px;
+  font-size:17px;
+  max-width:660px;
   margin:0;
 }
 .hero-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px}
