@@ -1,0 +1,19 @@
+{
+  "review_date": "2026-11-05",
+  "pages": [
+    "index.html",
+    "projects.html",
+    "code-intelligence.html"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "checks": 18,
+  "failures": [],
+  "ownership": "The redundant scope block and My project label are removed; direct ownership remains in the hero paragraph.",
+  "artwork": "Built-in image generation; interconnected source-code files rendered in glass, teal, ivory, and copper.",
+  "image_viewer": "Original PNG and full-size viewing verified; keyboard focus returns after closing."
+}

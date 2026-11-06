@@ -4,9 +4,9 @@
       "original_filename": "IMG_5611.jpg",
       "package_path": "assets/rohan-berkeley-forum-nasa-ames.jpg",
       "placement": "SOMA case study and Berkeley Innovation Forum feature",
-      "caption": "Rohan Chaudri at the Berkeley Innovation Forum, NASA Ames · April 14–16, 2026.",
-      "alt_text": "Rohan Chaudri beside the NASA emblem, wearing his Berkeley Innovation Forum badge.",
-      "source_note": "User identifies NASA Ames venue and event context. Badge supplies the event date range. The image does not show the presentation itself.",
+      "caption": "Rohan Chaudri at the Berkeley Innovation Forum, NASA Ames Research Center · April 14–16, 2026.",
+      "alt_text": "Rohan Chaudri at the Berkeley Innovation Forum at NASA Ames Research Center, beside the NASA emblem and wearing his event badge.",
+      "source_note": "User identifies NASA Ames Research Center venue and event context. Badge supplies the event date range. The image does not show the presentation itself.",
       "width": 1536,
       "height": 2048,
       "sha256": "c5e3393db13ddae793e36ac1d6adc1706ace6d42e81dc74b026e7b8cf424665b",
@@ -68,7 +68,8 @@
       "original_bytes_preserved": true,
       "user_selected": true,
       "icon_exports_created": false,
-      "instructions": "Favicon_Codex_Instructions.txt"
+      "instructions": "Favicon_Codex_Instructions.txt",
+      "alt_text": ""
     }
   ]
 }

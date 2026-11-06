@@ -28,5 +28,15 @@
   ],
   "code_intelligence_visual": "Original conceptual repository graph; replaces the semiconductor photograph on all three pages",
   "motion": "Photo changes use a short fade; motion preferences disable transitions",
-  "source_photo_hashes": "6 originals verified"
+  "source_photo_hashes": "6 originals verified",
+  "editorial_followup": {
+    "ownership": "The hand is explicitly described as Rohan\u2019s own project, designed and built independently. My contribution labels removed.",
+    "forum_photo": "Visible captions on the homepage and work index identify the Berkeley Innovation Forum at NASA Ames Research Center; the SOMA case study uses the full venue name.",
+    "browser_review": "Homepage, work index, hand case study, and SOMA case study checked at 390px and 1440px; no overflow or broken images."
+  },
+  "latest_visual_revision": {
+    "artwork": "Generated editorial code-dependency artwork installed on homepage, work index, and TI profile",
+    "review": "design/code-cover-verification.json",
+    "hand_feature": "Redundant ownership/scope block removed; direct ownership remains in the description. The duplicate Context field on the independent project card is also removed."
+  }
 }

@@ -18,6 +18,13 @@
     "creator": "Original website illustration",
     "source": "Created for this portfolio",
     "license": "Original site artwork",
-    "usage": "Conceptual code-relationship graph used on the homepage, work index, and Texas Instruments profile. Illustrative example only; not an internal project artifact or system architecture."
+    "usage": "Retired conceptual diagram; no longer displayed on the website."
+  },
+  {
+    "file": "assets/source/code-intelligence-editorial.png",
+    "creator": "Generated for this portfolio using the built-in image-generation tool",
+    "source": "assets/source/code-intelligence-image-prompt.txt",
+    "license": "AI-generated asset created for this site",
+    "usage": "Editorial illustration of code dependencies. Used on the homepage, work index, and Texas Instruments profile. WebP derivatives are responsive encodings of the original artwork."
   }
 ]
