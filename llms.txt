@@ -1,55 +1,42 @@
 # Rohan Chaudri
 
-Professional profile for Rohan Chaudri, a machine learning engineer, product builder, and data scientist.
+> AI Engineer at Texas Instruments. Work across AI agents, conversation analysis, enterprise applications, graph databases, and independent engineering.
 
 Canonical site: https://rohanchaudri.com/
 Contact: rohanchaudri@berkeley.edu
 LinkedIn: https://www.linkedin.com/in/rohanchaudri/
 GitHub: https://github.com/rchaudri
 
-## High-Signal Summary
+## Experience
+- Texas Instruments — AI Engineer, September 2026–present. Neo4j graph databases for a code-intelligence initiative and a separate XML editor for an internal document engine.
+- Marsh — Finance Innovation Technology Intern, June–July 2026. Full-stack development of a centralized accounting memo application and presentations to stakeholders and controllers.
+- SOMA — AI/ML Engineer & Product Manager, 2024–2026. Custom on-premises ML model scored transcripts across more than ten dimensions, including agenda setting, decision clarity, and warmth. GPT and Gemini integrations supported customized coaching for meetings and call centers. Presented at the Berkeley Innovation Forum at NASA Ames in April 2026. Event credential: Founding Engineer.
+- Trivium — Software Engineer & Product Management Intern, 2023–2024. Built and deployed two production-ready agents for financial analysis and wildfire-risk exploration. GPT-4 and Gemini integrations, prompt refinement, dynamic code execution, and graph generation. Reported 90% reduction in time spent on manual graph creation. Conducted 15+ customer and vendor interviews.
 
-- Rohan Chaudri is a machine learning engineer with work in conversation analysis, finance and wildfire risk agents, and myoelectric hardware.
-- His experience spans private model integrations, GPT-5.1 and Gemini 3 Pro integrations, natural language processing, predictive modeling, customer interviews, product requirements, and data/API workflows.
-- He has more than two years of hands-on experience across artificial intelligence, analytics, and product work.
-- He is fluent in Mandarin Chinese and brings an international economics perspective.
+## Featured independent project
 
-## Education
+- The myoelectric bionic hand is the lead homepage project, with original prototype photographs and a detailed case study.
 
-- University of California, Berkeley: Bachelor of Arts in Data Science, 2020-2024.
-- Georgia Institute of Technology: Master of Science in Computational Data Science, 2024-2026, in progress.
-- Coursework includes applied natural language processing, analytics modeling, database systems, data structures, probability and inference, data engineering, and data ethics.
+## Background
+- UC Berkeley: BA in Data Science, 2020–2024. Berkeley graduation portrait and Class of 2024 commencement photograph appear on the Education and About pages.
+- Georgia Tech: graduate analytics study. Degree completion date not specified.
+- Independent myoelectric bionic hand project, with original prototype photographs.
+
+## Pages
+- [Selected work](https://rohanchaudri.com/projects.html)
+- [SOMA meeting coach](https://rohanchaudri.com/soma.html)
+- [Trivium agents](https://rohanchaudri.com/trivium.html)
+- [CFO Agent](https://rohanchaudri.com/cfo-agent.html)
+- [Wildfire Agent](https://rohanchaudri.com/wildfire-agent.html)
+- [Code intelligence and document tooling](https://rohanchaudri.com/code-intelligence.html)
+- [Marsh accounting application](https://rohanchaudri.com/marsh.html)
+- [Bionic hand](https://rohanchaudri.com/bionic-hand.html)
+- [Experience](https://rohanchaudri.com/experience.html)
+- [About](https://rohanchaudri.com/about.html)
+- [Education and recognition](https://rohanchaudri.com/education.html)
+- [Recommendations](https://rohanchaudri.com/recommendations.html)
+- [Contact](https://rohanchaudri.com/contact.html)
 
 ## Recognition
 
-- United States Senate Certificate of Commendation for Distinguished Achievement, signed by United States Senator Dianne Feinstein on July 12, 2019.
-- The Senate commendation recognized participation in the Congressional Academy for American History and Civics and dedication to American civics.
-- Winner, Alameda County Science and Engineering Fair for a myoelectric bionic hand.
-- Perfect SAT Math score: 800.
-- Perfect SAT Biology score: 800.
-- Google Cloud Data Analytics Certificate, issued in 2025 and valid through 2028.
-
-## Projects
-
-- Real-Time Meeting Coach: private machine-learning pipeline that analyzes more than ten conversation signals and uses current frontier models, including GPT-5.1 and Gemini 3 Pro, for adaptive feedback.
-- CFO Agent: finance assistant that parses financial statements, generates insights, compares benchmarks, supports forecasting, and preserves private-deployment requirements.
-- Wildfire Risk Agent: geospatial risk forecasting system trained on the United States Wildfires Database for utility risk analysis.
-- Artificial Intelligence Game Engine: minimax search with alpha-beta pruning, improving decisions from minutes to seconds.
-- Enigma Machine Simulator: historically accurate rotor, reflector, and plugboard simulation for encryption and decryption.
-- Myoelectric Bionic Hand: six-year independent engineering project using muscle-signal sensors, signal processing, intent classification, 3D-printed parts, motors, and tendon-like strings.
-
-## Skills
-
-- Programming and data: Python, Java, SQL, web APIs, Pandas.
-- Systems and frameworks: FastAPI, Flask, Streamlit.
-- Machine learning: GPT-5.1 integration, Gemini 3 Pro integration, random forest models, nearest-neighbor models, generalized linear models, natural language processing, prompt engineering.
-- Product: user interviews, product requirements, market requirements, roadmaps, self-service analytics, stakeholder communication.
-
-## Source Pages
-
-- Homepage: https://rohanchaudri.com/
-- Experience: https://rohanchaudri.com/experience.html
-- Projects: https://rohanchaudri.com/projects.html
-- Education and recognition: https://rohanchaudri.com/education.html
-- Recommendations: https://rohanchaudri.com/recommendations.html
-- Contact: https://rohanchaudri.com/contact.html
+- United States Senate Certificate of Commendation for Distinguished Achievement, signed by Senator Dianne Feinstein on July 12, 2019, recognizing participation in the Congressional Academy for American History and Civics. The original certificate is prominently featured on the homepage.

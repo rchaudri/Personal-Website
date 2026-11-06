@@ -1,0 +1,23 @@
+[
+  {
+    "file": "assets/source/semiconductor-jason-leung.jpg",
+    "creator": "Jason Leung",
+    "source": "https://unsplash.com/photos/a-multicolored-image-of-a-computer-chip-j8Tc1rV-gUw",
+    "license": "Unsplash License",
+    "usage": "Retired contextual photograph; no longer displayed on the website."
+  },
+  {
+    "file": "assets/source/california-wildfire-nasa.jpg",
+    "creator": "NASA Earth Observatory / Joshua Stevens; MODIS data from NASA EOSDIS/LANCE and GIBS/Worldview",
+    "source": "https://science.nasa.gov/earth/earth-observatory/smoke-blows-over-the-pacific-147213/",
+    "license": "NASA image; credit retained",
+    "usage": "Contextual wildfire photograph dated September 2, 2020; not output from the Trivium agent."
+  },
+  {
+    "file": "assets/media/code-relationships.svg",
+    "creator": "Original website illustration",
+    "source": "Created for this portfolio",
+    "license": "Original site artwork",
+    "usage": "Conceptual code-relationship graph used on the homepage, work index, and Texas Instruments profile. Illustrative example only; not an internal project artifact or system architecture."
+  }
+]

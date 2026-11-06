@@ -1,0 +1,74 @@
+{
+  "assets": [
+    {
+      "original_filename": "IMG_5611.jpg",
+      "package_path": "assets/rohan-berkeley-forum-nasa-ames.jpg",
+      "placement": "SOMA case study and Berkeley Innovation Forum feature",
+      "caption": "Rohan Chaudri at the Berkeley Innovation Forum, NASA Ames · April 14–16, 2026.",
+      "alt_text": "Rohan Chaudri beside the NASA emblem, wearing his Berkeley Innovation Forum badge.",
+      "source_note": "User identifies NASA Ames venue and event context. Badge supplies the event date range. The image does not show the presentation itself.",
+      "width": 1536,
+      "height": 2048,
+      "sha256": "c5e3393db13ddae793e36ac1d6adc1706ace6d42e81dc74b026e7b8cf424665b",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_filename": "IMG_5614.jpg",
+      "package_path": "assets/berkeley-innovation-forum-badge.jpg",
+      "placement": "Readable supporting detail beside the SOMA event portrait",
+      "caption": "Berkeley Innovation Forum credential · SOMA · Founding Engineer.",
+      "alt_text": "Berkeley Innovation Forum badge dated April 14–16, 2026, naming Rohan Chaudri of SOMA as Founding Engineer.",
+      "source_note": "The event name, date range, person, company, and Founding Engineer title are visible on the badge.",
+      "width": 1536,
+      "height": 2048,
+      "sha256": "c6f846780d19108c563bf2950f23401ee04b2859ac49eee326d3c938da82097c",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_filename": "IMG_6128.jpg",
+      "package_path": "assets/new-york-city-view.jpg",
+      "placement": "Architectural image supporting the Marsh experience chapter",
+      "caption": "New York.",
+      "alt_text": "New York high-rises and an avenue viewed through an upper-floor window.",
+      "source_note": "User identifies New York. No exact date, office, or vantage-point address is asserted.",
+      "width": 1536,
+      "height": 2048,
+      "sha256": "fea6438b550bec7dd48c5e0d65734048bf86cd34f98c60b2a0b3c01aec6dcee6",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_filename": "IMG_5702.jpg",
+      "package_path": "assets/rohan-berkeley-graduation-portrait.jpg",
+      "role": "primary portrait",
+      "width": 807,
+      "height": 2048,
+      "caption": "Rohan Chaudri · Berkeley graduation, 2024.",
+      "alt_text": "Rohan Chaudri in a graduation cap and gown with a blue-and-gold Berkeley stole.",
+      "sha256": "5300f4a973abc2e00ae1f2bbb1b42c2c7390fe4829042a7b97d2f21feca10403",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_filename": "IMG_5727.JPG",
+      "package_path": "assets/berkeley-class-2024-commencement.jpg",
+      "role": "supporting commencement setting",
+      "width": 1152,
+      "height": 2048,
+      "caption": "Berkeley commencement · Class of 2024.",
+      "alt_text": "An open Berkeley commencement program with a Class of 2024 message, held in front of a stadium and field.",
+      "sha256": "a4ddc1e86cd1962afc8fbcac448abf22395e178b66addf4c74e742ff4c6d0c0b",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_filename": "IMG_3231.jpg",
+      "package_path": "assets/rohan-favicon-source.jpg",
+      "role": "user-selected favicon source portrait",
+      "width": 1224,
+      "height": 1224,
+      "sha256": "866e9529740385f7920e8097ac2b0dbff5fc63eaea144674bb14d829d344614a",
+      "original_bytes_preserved": true,
+      "user_selected": true,
+      "icon_exports_created": false,
+      "instructions": "Favicon_Codex_Instructions.txt"
+    }
+  ]
+}

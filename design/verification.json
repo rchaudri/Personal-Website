@@ -1,0 +1,32 @@
+{
+  "checks": 130,
+  "responsive_pages": 15,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "failures": [],
+  "review_date": "2026-11-05",
+  "browser": "Google Chrome 156",
+  "static_checks": "passed",
+  "lead_project": "Handshake photograph of the independent myoelectric bionic hand, first on the homepage and work index",
+  "palette": [
+    "#123c43",
+    "#f3f7f6",
+    "#0f2026",
+    "#f6a276"
+  ],
+  "original_prototype_controls": [
+    "Touch selection",
+    "Horizontal swipe",
+    "Arrow keys and Home/End",
+    "Original-image viewer",
+    "Direct original-image link"
+  ],
+  "code_intelligence_visual": "Original conceptual repository graph; replaces the semiconductor photograph on all three pages",
+  "motion": "Photo changes use a short fade; motion preferences disable transitions",
+  "source_photo_hashes": "6 originals verified"
+}

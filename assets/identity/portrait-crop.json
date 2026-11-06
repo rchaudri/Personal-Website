@@ -1,0 +1,37 @@
+{
+  "source": "assets/rohan-favicon-source.jpg",
+  "original_filename": "IMG_3231.jpg",
+  "crop_pixels": {
+    "x": 190,
+    "y": 125,
+    "width": 870,
+    "height": 870
+  },
+  "treatment": "Crop and resize only; original colors and appearance preserved.",
+  "exports": [
+    {
+      "path": "favicon.png",
+      "size": 32
+    },
+    {
+      "path": "assets/identity/favicon-16.png",
+      "size": 16
+    },
+    {
+      "path": "assets/identity/favicon-48.png",
+      "size": 48
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "size": 180
+    },
+    {
+      "path": "android-chrome-192x192.png",
+      "size": 192
+    },
+    {
+      "path": "android-chrome-512x512.png",
+      "size": 512
+    }
+  ]
+}

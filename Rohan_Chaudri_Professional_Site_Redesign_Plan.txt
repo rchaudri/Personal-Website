@@ -1,0 +1,503 @@
+ROHAN CHAUDRI — PROFESSIONAL WEBSITE REDESIGN
+Research, editorial direction, confirmed career material, website copy, and asset instructions
+Website reviewed: https://rohanchaudri.com/
+Review date: November 5, 2026
+Career and asset update: November 5, 2026, incorporating Rohan's technical clarifications and three supplied photographs.
+Status: editorial and design handoff with proposed public copy. No live website changes have been made.
+
+1. THE CENTRAL DECISION
+
+Build the professional site around the quality of Rohan's work, the range of systems he can understand, and the judgment he brings to a project. A visitor should quickly understand his present professional role, encounter substantial evidence, and discover a distinctive person behind the engineering.
+
+The existing site contains useful material, but its hierarchy gives historical credentials much more visual weight than current software work. The redesign should bring the professional story up to date and make each important claim inspectable.
+
+My recommended positioning is engineering first, with product judgment and an independent creative practice clearly visible. King of Fremont should have a deliberate place in this identity. Its exact prominence is a decision for Rohan; the working recommendation is one strong, curated chapter with a direct route into the separate creative site.
+
+The intended impression: this person can investigate a difficult problem, understand the people involved, build a system, and explain the decisions behind it. The design should communicate attention, precision, and confidence before visitors read every detail.
+
+The new career detail gives this positioning a concrete basis: financial and wildfire agents at Trivium; a real-time meeting coach at SOMA; a centralized accounting memo application at Marsh; and graph database and XML editor projects at Texas Instruments. Across these roles, Rohan describes both implementation and the work of discovering requirements, shaping the product, and explaining it to stakeholders. This is the central professional thread to develop.
+
+2. WHAT WAS ACTUALLY REVIEWED
+
+Read the six public pages: Home, Experience, Projects, Education, Recommendations, and Contact. Inspected the desktop presentation, the portrait, certificate, five bionic-hand photographs, and existing favicon. Reviewed the public HTML, stylesheet, reveal-animation script, structured data, robots.txt, sitemap.xml, and llms.txt.
+
+The audit covered the public site, not its repository or private analytics. Mobile breakpoints were reviewed in CSS; mobile rendering and performance scores have not been measured. Project claims on the site remain owner-published claims unless a separate source verifies them.
+
+Home: a machine-learning introduction followed by a large Senate certificate feature, an extensive bionic-hand feature, technical strengths, and selected highlights. Current professional context needs more prominence. [1]
+
+Experience: a startup role dated 2024–present, Trivium dated 2023–2024, and shorter uAspire and Washington Hospital entries. Texas Instruments and Marsh McLennan are absent. The recent roles discussed with Rohan should be reconciled with this timeline. [2]
+
+Projects: six short descriptions. Most have no visual explanation or dedicated case study. This is the main opportunity to make technical credibility tangible. [3]
+
+Education: Berkeley and Georgia Tech, a Google Cloud credential, language proficiency, test scores, and civic recognition. Several precise labels and dates need confirmation. [4]
+
+Recommendations: two substantial accounts from Chris Bush and Werner Fischer. They provide evidence of research, product judgment, stakeholder communication, and technical understanding. Their strongest material should also appear beside relevant work. [5]
+
+Contact: email, LinkedIn, and GitHub. The next version needs a clear purpose for each action and, if supplied, an up-to-date résumé. [6]
+
+3. THE BEST MATERIAL ALREADY AVAILABLE
+
+The hand photographs are unusually strong engineering assets. They show an actual assembly, exposed circuitry and batteries, articulated fingers, an electrode setup, and grasps around different objects. They have both visual presence and explanatory value. Preserve their documentary character. A photograph shows the pictured configuration; it does not establish a performance benchmark or medical capability.
+
+The recommendations describe how Rohan worked, not merely that he was liked. They can substantiate a professional identity that includes finding requirements, assessing technologies, communicating clearly, and moving a project forward. Retain attribution and dates; identify the relationship accurately. [5]
+
+The project's mix is useful: conversational systems, financial analysis, environmental risk, search algorithms, historical simulation, and physical engineering. The next version should establish depth in a few examples before presenting the broader range. [3]
+
+Rohan's creative identity is another distinctive asset. Its professional presentation should describe the work and direct interested visitors to the public archive. The engineering site can show the breadth of one person's practice without asking every professional visitor to absorb the entire mythology.
+
+4. CURRENT FACTS AND EDITORIAL DECISIONS
+
+The latest answers settle the main career questions. Use the supplied details below throughout the website, résumé drafts, metadata, and project summaries. They supersede conflicting wording on the old site.
+
+Roles and chronology
+- Trivium: Software Engineer and Product Management Intern, 2023–2024.
+- SOMA: AI/ML Engineer and Product Manager, approximately July 2024–May 2026. Keep the approximate precision in the working record; a compact public timeline can show 2024–2026.
+- SOMA's Berkeley Innovation Forum credential also identifies Rohan as Founding Engineer. Preserve that documented designation in the event feature; retain his supplied role title in the career timeline.
+- Marsh: Finance Innovation Technology Intern, June–July 2026.
+- Texas Instruments: AI Engineer, September 2026–present. Current work includes Neo4j graph databases for a code-intelligence initiative and an XML editor for an internal document engine.
+
+Trivium implementation and outcomes
+- The confirmed integrations are GPT-4 and Gemini. The previously used GPT-5.1/Gemini 3 Pro references must not carry into this historical experience.
+- Rohan clarified that fine-tuning meant refining prompts. Write prompt refinement or prompt engineering; do not describe training or updating model weights.
+- The wildfire workflow used a GPT model appropriate to the period. Its exact version is not established. Write GPT-based wildfire-risk analysis using the US Wildfires Database. Do not choose a model version merely because its release date fits.
+- The 90% time reduction refers to replacing manual graph creation with an agent that dynamically executed code and generated graphs. Scope the claim to that workflow. It is Rohan's reported result; no invented before/after timings, sample size, or accuracy figures should accompany it.
+- Two agents were built and deployed as production-ready systems, according to Rohan. Do not infer enterprise-wide adoption, named customers, or a deployed user count.
+- PG&E was an example of a utility that could benefit, not a confirmed customer. Use utilities as the audience in public copy.
+
+CFO privacy wording
+- Rohan has explained the implementation and requested minimal public detail.
+- Use one short phrase, if needed: “with privacy controls for sensitive financial data.”
+- Keep the underlying implementation out of the public narrative and this shareable implementation brief. Do not frame the privacy mechanism as the project's main innovation.
+- Remove the old blanket claim that all sensitive data remained on-premises from new public copy. The brief does not establish enough about the complete system boundary to repeat that absolute claim.
+- The project's main story is financial analysis, dynamic visualization, and the interface for non-technical users.
+
+SOMA model and event
+- The custom model ran on-premises and scored transcripts across more than ten dimensions.
+- Confirmed examples: agenda setting, decision clarity, and warmth.
+- GPT and Gemini integrations supported the customized meeting coach. Describe the local scoring model and LLM integration distinctly without inventing the wider data flow.
+- Meetings and call centers were intended applications. Do not add a measured customer-satisfaction gain.
+- Rohan reports presenting the SOMA work at the Berkeley Innovation Forum at NASA Ames.
+- The supplied badge reads April 14–16, 2026, Rohan Chaudri, SOMA, Founding Engineer. This gives the event date range, not a specific presentation day.
+- The photographs document the visit and credential; they do not depict the presentation itself. Describe each image according to what it shows.
+
+Remaining background details
+- The site's graduate-degree name and expected completion date still need reconciliation. Georgia Tech calls the OMS Analytics degree Master of Science in Analytics; Computational Data Analytics is a track. [9]
+- Credential naming, Mandarin proficiency, older role dates, game-engine timing conditions, and the exact science-fair award details remain open background items.
+- Preserve the Senate certificate's civic-program context.
+
+No additional technical interview is required to draft the four principal career entries. More detailed diagrams or case studies can be added when their supporting material is available.
+
+5. RECOMMENDED VISITOR JOURNEY
+
+Opening: Rohan's name, a clear professional descriptor, an accurate current-role line, and a concise statement of the work. The hero should establish identity quickly and provide two useful actions: explore selected work and contact Rohan. Add a résumé action when an approved file exists.
+
+First proof: a substantial featured project with a real visual and a specific account of ownership. Let the visitor see an input, the system Rohan built, and the resulting output. Follow it with two complementary projects.
+
+Professional validation: place one short, attributed recommendation excerpt near the relevant case study. Link to the full recommendation page. Avoid turning all recommendations into an automatic carousel.
+
+Experience: a clear, current timeline with scope and contribution. Show employers and institutions in their actual relationship to Rohan. Labels should distinguish employment, education, collaboration, and independent work.
+
+Independent engineering: give the hand its own richly illustrated case study. Its role on the homepage is to establish an enduring interest in building systems that connect computation to the physical world.
+
+Creative practice: one carefully composed King of Fremont feature, with approved artwork, factual context, and a direct link. Explain the identity connection in ordinary language. The size of this section depends on Rohan's preference.
+
+Background and contact: education, selected recognition, concise personal context, and a clear way to reach him. Historical credentials should be easy to find without occupying the first screens of the professional story.
+
+6. PAGE STRUCTURE
+
+Home — the complete introduction, a few strong examples, current context, and contact.
+
+Work — a curated index with substantial case studies. SOMA's meeting coach and Trivium's agents now provide the most detailed supplied professional material. Develop those first; present current TI work at the depth supported by shareable details. Give Marsh a distinct application case study and retain the hand as an independent engineering feature. The homepage can feature three selected works, with the remaining studies accessible through this index. The graduate practicum remains another candidate if material can be published.
+
+Experience — the corrected chronology with specific contributions, responsibilities, and links to applicable case studies.
+
+About — education, engineering background, language ability, selected recognition, and the relationship to the creative practice.
+
+Recommendations — preserve the existing full accounts with readable typography, clear attribution, and links from the relevant parts of the site.
+
+Contact — working email and professional profiles; a résumé when available. A contact form is optional and should exist only with a working delivery mechanism.
+
+Navigation can be compact: Work, Experience, About, Contact. Recommendations and detailed education remain accessible through relevant links and the footer. Existing public URLs should continue to work or receive intentional redirects if reorganized.
+
+7. HOW TO MAKE THE CASE STUDIES SUBSTANTIAL
+
+Each featured project needs these answers:
+- The concrete problem and who experienced it.
+- Rohan's role, contribution, collaborators, and project dates.
+- The inputs, processing stages, storage, interfaces, and outputs.
+- The constraints that influenced the design.
+- One or two consequential decisions and why they were made.
+- What was built, what was tested, and what remains exploratory.
+- Results with a clear measurement scope.
+- A diagram, screenshot, demonstration, public repository, or other supporting artifact where available.
+
+For the current enterprise work, discuss the public problem and Rohan's contribution first. Use only architecture and examples he can share. Illustrative examples should be visibly identified and should not be presented as production screenshots.
+
+For the earlier AI products, explain the actual workflow and Rohan's ownership. Readers should be able to distinguish data preparation, model/API integration, application logic, evaluation, interface work, and deployment.
+
+SOMA should connect customer research, the local ML model, the LLM coaching layer, and the Forum presentation. Trivium should separate the CFO and wildfire products while connecting them to the same product-discovery work; do not assign the shared 90% result to each independently.
+
+For Marsh, build the case around full-stack development of a centralized accounting memo application and regular presentations to stakeholders and controllers. Add more implementation depth when available. For TI, describe Neo4j within the code-intelligence initiative for interacting with repositories, and the XML editor within the internal document engine. Keep these as separate projects; do not invent a shared architecture.
+
+For the hand, a clear signal-to-motion explanation can sit beside the electrode photograph and mechanical close-ups. Confirm the processing stages before drawing the architecture. Describe demonstrated functions precisely; photographs of objects in the hand cannot establish grasp reliability by themselves.
+
+The smaller algorithmic projects can remain in a compact archive. Promote them only if there is enough evidence to support a valuable technical explanation.
+
+8. VISUAL DIRECTION
+
+Recommended direction: precise, editorial, and distinctly personal.
+
+Use a deep graphite opening, a restrained portrait, strong typography, and a disciplined grid. Transition into warm, light project pages where diagrams, captions, and technical explanations are easy to read. A single cool accent can identify interactive elements and important details. Develop the final palette together with the monogram so the site feels like one identity.
+
+The homepage should have a composed opening rather than a collection of equal boxes. The name, professional positioning, and featured work each need a clear scale. A meaningful project visual can supply the visual energy: an architecture detail, an interface, or the hand against its dark background.
+
+Use a distinctive display face sparingly and a highly readable body face. Short technical labels can use a monospace companion where it improves scanning. Decide exact fonts during the visual concept stage; assess character, licensing, loading cost, and small-screen rendering.
+
+Give each case study room to breathe. Use large imagery, clear captions, short summaries, and deeper sections for technical readers. Most professional visitors should understand the outcome quickly; interested readers should be able to inspect the engineering.
+
+Motion should help orientation: modest transitions, purposeful hover states, and clear navigation feedback. Keep reading and interaction immediate. Respect reduced-motion preferences and ensure essential content remains visible if animation fails.
+
+The existing outdoor portrait remains available for a neutral personal introduction. The new NASA Ames portrait is stronger within a clearly captioned SOMA/Forum feature. Keep the event context adjacent to that photograph. The New York architectural image can give the Marsh chapter a distinctive visual setting. Preserve each photograph's documentary character.
+
+9. FAVICON AND IDENTITY SYSTEM
+
+The existing favicon overlaps a gold serif R and a dark C on white. Redesign it as a compact custom RC mark whose silhouette survives at tab size.
+
+Start with two related vector studies: one with a shared structural stem, and one that uses the C as a negative-space enclosure. Compare them in monochrome at 16, 32, and 48 pixels before selecting a mark. The strongest design should be recognizable without relying on a gold effect or very fine details.
+
+Deliver the selected mark as SVG, appropriate PNG fallbacks, a browser favicon bundle, and an Apple touch icon. Define light and dark treatments. Carry its geometry into the wordmark, social preview image, résumé header, and site footer.
+
+A favicon is one part of the identity. The wordmark, typography, image treatment, spacing, and interaction states should reinforce it consistently.
+
+10. EDITORIAL APPROACH
+
+Use direct language built around work, decisions, and outcomes. Keep job titles precise and explain broad terms with concrete examples. Avoid inflating a contribution with superlatives that the case study cannot substantiate.
+
+The first screen should use the confirmed professional title AI Engineer, with the current Texas Instruments role visible. Explain the broader work through concrete project categories: AI agents, conversation analysis, enterprise applications, code intelligence, and document tooling. Section 17 supplies a proposed opening.
+
+Name each project clearly. Add a descriptive subtitle that identifies its problem or mechanism. Keep stack details in a supporting role. A reader should first understand why a system exists and what Rohan contributed.
+
+First person is recommended for explanatory case-study passages: it makes ownership easier to understand. Use neutral third-person wording for short profile descriptions and search metadata. Keep the voice consistent within each context.
+
+The creative section can have stronger visual atmosphere while retaining factual copy. Its purpose is to show an independent practice and offer a route into it. Public attention metrics, recognitions, and any celebrity interactions must be sourced and described at their actual scope if included.
+
+11. SEARCH, PERFORMANCE, AND FINISH
+
+Maintain a clear identity across the site: name, professional positioning, biographical facts, current role, and social profiles. Keep the existing professional Person identifier stable when revising structured data. Connect the creative identity through visible explanatory copy and appropriate links once the intended relationship is settled.
+
+Give important case studies their own useful URLs and original descriptive text. Use accurate titles, summaries, canonical URLs, and social previews. Resolve the root/index.html duplication consistently; include the intended canonical pages in the sitemap. Use meaningful modification dates.
+
+Update llms.txt alongside the actual pages. Treat it as a supplementary summary, with no promise that it will determine search rankings or AI answers.
+
+Keep the implementation appropriate to a small editorial portfolio. A change of framework is not inherently part of the redesign. Prioritize clear HTML, optimized images, restrained scripting, and maintainable content.
+
+Validate responsive images, intrinsic image dimensions, font loading, keyboard access, focus states, contrast, useful alt text, reduced motion, touch targets, and readable technical diagrams. Check narrow phones, tablets, and large screens. Test real contact links, downloads, navigation, and social previews.
+
+Preserve existing useful content and evidence while improving where it appears. Historical credentials can remain available in the record even when they move off the homepage.
+
+12. EXECUTION PLAN
+
+Stage A — Establish the facts and priorities.
+The main career chronology and technical scope are established in this edition. Resolve remaining education and credential wording, choose the final audience emphasis and creative prominence, and add an approved résumé when available. The three new photographs are included in the handoff package.
+
+Stage B — Write the actual content.
+Draft the homepage, experience entries, short bio, case-study outlines, and contact language. Mark any unresolved fact explicitly in the working document; do not publish placeholders as facts.
+
+Stage C — Establish the visual identity.
+Develop the RC mark, typography, palette, homepage composition, and one representative case-study design. Assess the complete desktop and mobile experience before spreading the design across every page.
+
+Stage D — Implement the full site.
+Build the approved content and design, preserve or redirect existing URLs, and apply the same identity to icons, previews, and downloadable materials.
+
+Stage E — Review and release.
+Read every page for consistency; test navigation and contact actions; inspect responsive layouts; validate metadata and assets; measure performance. Present the finished site for review before a separate publication action.
+
+13. WHAT IS SETTLED AND WHAT CAN COME LATER
+
+The core career narrative is now sufficiently specified for a substantial rewrite. The role names, SOMA timeframe, Trivium model names, meaning of prompt refinement, chart-generation result, transcript-scoring examples, TI project purposes, and Forum imagery have all been supplied.
+
+Proceed with the proposed copy in Section 17 and the image assignments in Section 16. Keep unanswered background facts in working notes instead of displaying unresolved placeholders to visitors.
+
+Optional later inputs that would add depth:
+- An approved résumé and confirmed education/credential wording.
+- Shareable interfaces, product screenshots, or further project details.
+- Any specific preference about the main audience or the prominence of King of Fremont.
+
+The current recommendations remain an engineering-led professional identity and one substantial creative chapter. These are design recommendations, not recorded user selections. Do not repeat the six-question technical interview already answered.
+
+14. DIRECTION FOR CODEX
+
+This is a planning brief, not a request to publish immediately. Use it to develop a professional site with strong editorial hierarchy, visible evidence, distinctive typography, and a coherent identity. Keep unresolved facts marked as questions in working materials. Do not fill gaps with plausible career details, invented benchmarks, fabricated screenshots, or generic promotional copy.
+
+The design must make the work legible. Every large visual should reveal the person, an actual system, an artifact, or evidence. Every major claim should have context. Every page should give a visitor a useful next step.
+
+The professional site and King of Fremont belong to the same person. Give each its own purpose and tone, and make their relationship intentional.
+
+15. CAREER FACTS FOR CODEX
+
+Use these details as the editorial source of truth for the rewrite. Dates and claims are supplied by Rohan unless an image or prior public source is specifically identified.
+
+TRIVIUM
+Role: Software Engineer and Product Management Intern.
+Dates: 2023–2024.
+Built and deployed two production-ready LLM agents: CFO and Wildfire.
+The CFO Agent processed financial statements, including income statements, balance sheets, and cash-flow statements. Functions included insights, industry benchmarking, forecasting, tailored recommendations, and dynamic graphs.
+The Wildfire Agent supported GPT-based fire-risk analysis and custom visual analytics using the US Wildfires Database.
+Manual graph creation was replaced by dynamic agent code execution and graph generation; Rohan reports a 90% reduction in the associated manual analysis time.
+Integrated GPT-4 and Gemini; refined prompts and outputs. No model-weight fine-tuning is claimed.
+Conducted 15+ customer and vendor interviews; produced PRDs and MRDs; shaped the MVP and roadmap; designed workflows and interactive wireframes for non-technical users.
+Confirmed stack: Python, SQL, REST APIs, NLP, GPT-4, Gemini, Flask, Streamlit.
+Privacy description: use only the brief phrase in Section 4.
+
+SOMA
+Role: AI/ML Engineer and Product Manager.
+Dates: approximately July 2024–May 2026.
+Event credential: Founding Engineer, SOMA.
+Developed a real-time meeting-coach MVP using a custom on-premises ML model to score transcripts across 10+ dimensions.
+Named dimensions: agenda setting, decision clarity, warmth.
+Integrated the MVP with GPT and Gemini for customized coaching intended for corporate meetings and call centers.
+Collaborated with scholars in Berkeley and researchers in Europe and Asia.
+Conducted interviews and competitive research; created PRDs and MRDs that reshaped product direction.
+Presented the work at the Berkeley Innovation Forum at NASA Ames, according to Rohan.
+The badge identifies the event as April 14–16, 2026.
+
+MARSH
+Role: Finance Innovation Technology Intern.
+Dates: June–July 2026.
+Worked on full-stack development of a centralized accounting memo application.
+Presented frequently to stakeholders and controllers.
+The New York city photograph supplies setting; it is not a screenshot of the application or proof of a specific office address.
+
+TEXAS INSTRUMENTS
+Role: AI Engineer.
+Dates: September 2026–present.
+Working with Neo4j graph databases as part of a code-intelligence initiative to improve interaction with code repositories.
+Building an XML editor for an internal document engine.
+No performance benchmark, company-wide adoption figure, or deployment scope has been supplied.
+
+16. PHOTOGRAPH ASSIGNMENTS AND CAPTIONS
+
+Use filenames and image contents to identify assets. The attachment display order differs from the order described in the message, so do not assign locations by first/second/third position.
+
+A. NASA AMES PORTRAIT
+Original filename: IMG_5611.jpg
+Package path: assets/rohan-berkeley-forum-nasa-ames.jpg
+Dimensions: 1536 × 2048.
+Visible content: Rohan beside a NASA wall emblem, wearing a Berkeley Innovation Forum badge.
+Placement: primary image for SOMA's event feature; a linked smaller version may appear on the homepage.
+Caption: “Rohan Chaudri at the Berkeley Innovation Forum, NASA Ames · April 14–16, 2026.”
+Alt text: “Rohan Chaudri beside the NASA emblem, wearing his Berkeley Innovation Forum badge.”
+Editorial treatment: preserve the person, emblem, and visible event context. Use intentional proportions and adjacent captioning. No invented stage, audience, or presentation setting.
+
+B. FORUM BADGE
+Original filename: IMG_5614.jpg
+Package path: assets/berkeley-innovation-forum-badge.jpg
+Dimensions: 1536 × 2048.
+Visible text: Berkeley Innovation Forum; April 14–16, 2026; Rohan Chaudri; SOMA; Founding Engineer.
+Placement: supporting detail alongside the portrait or in an expandable evidence view. Keep the date, name, company, and title readable.
+Caption: “Berkeley Innovation Forum credential · SOMA · Founding Engineer.”
+Alt text: “Berkeley Innovation Forum badge dated April 14–16, 2026, naming Rohan Chaudri of SOMA as Founding Engineer.”
+
+C. NEW YORK CITY VIEW
+Original filename: IMG_6128.jpg
+Package path: assets/new-york-city-view.jpg
+Dimensions: 1536 × 2048.
+Visible content: a high-rise view between New York buildings, photographed through a window.
+Placement: atmospheric image for the Marsh experience chapter. It can provide a quiet architectural transition into the application work.
+Caption: “New York.”
+Alt text: “New York high-rises and an avenue viewed through an upper-floor window.”
+Do not call it a photograph of a specific Marsh office or assign an exact date that has not been supplied.
+
+The supplied originals are preserved unchanged in the package. Use these photographs as genuine career material. NASA Ames is the Forum venue in this account, not Rohan's employer, a client, or an endorsement of the software.
+
+17. PROPOSED PUBLIC WEBSITE COPY
+
+This section is usable editorial copy based on the supplied facts. It remains a draft for the website redesign. Implementation notes elsewhere in this brief are not public copy.
+
+HOME — OPENING
+
+Rohan Chaudri
+AI Engineer
+
+I build AI agents and enterprise software—from financial analysis and meeting intelligence to code repositories and internal document systems.
+
+Currently at Texas Instruments. Previously at Marsh, SOMA, and Trivium.
+
+Actions: Explore my work / Get in touch
+Add a résumé action only when an approved current résumé is available.
+
+HOME — SELECTED WORK INTRODUCTION
+
+Selected work
+
+Financial documents, live conversations, code repositories: each presents a different engineering problem. My work combines software development with the research and product decisions that make a system useful.
+
+HOME — SOMA FEATURE
+
+A closer reading of the conversation.
+
+At SOMA, I built a meeting-coach MVP around a custom ML model that scored transcripts across more than ten dimensions, including agenda setting, decision clarity, and warmth. GPT and Gemini integrations connected that analysis to customized coaching for meetings and call centers.
+
+Presented at the Berkeley Innovation Forum, NASA Ames · April 2026.
+
+Action: Explore the meeting coach
+Use only when linked to the implemented case study.
+
+HOME — TRIVIUM FEATURE
+
+From financial statements to interactive analysis.
+
+At Trivium, I built LLM agents for financial analysis and wildfire-risk exploration. The work brought together document analysis, prompt refinement, dynamic code execution, and interfaces designed for non-technical users.
+
+Result label: 90% less time on manual graph creation.
+Supporting line: Agent-generated code automated the graphs previously assembled manually.
+
+Action: Explore the agents
+The result belongs to the manual graph-generation workflow; do not imply 90% greater accuracy, forecasting quality, or overall organizational productivity.
+
+HOME — CURRENT WORK
+
+Code intelligence and document tooling.
+
+At Texas Instruments, I work with Neo4j graph databases for a code-intelligence initiative focused on interacting with code repositories. I am also building an XML editor for an internal document engine.
+
+HOME — CREATIVE PRACTICE
+
+Independent creative work
+
+Alongside engineering, I develop King of Fremont, my independent creative identity and archive.
+
+Action: Explore King of Fremont
+This is the proposed compact introduction; expand it only according to the agreed creative prominence and sourced public material.
+
+EXPERIENCE — TEXAS INSTRUMENTS
+
+AI Engineer
+Texas Instruments · September 2026–present
+
+Working on code intelligence and internal document tooling. My projects include Neo4j graph databases for interacting with code repositories and an XML editor for an internal document engine.
+
+EXPERIENCE — MARSH
+
+Finance Innovation Technology Intern
+Marsh · June–July 2026
+
+Worked on full-stack development of a centralized accounting memo application. Presented progress and application work frequently to stakeholders and controllers, connecting implementation with the people responsible for the accounting workflow.
+
+EXPERIENCE — SOMA
+
+AI/ML Engineer & Product Manager
+SOMA · 2024–2026
+
+Built a real-time meeting-coach MVP with a custom on-premises ML model that scored transcripts across more than ten dimensions. Integrated GPT and Gemini to support customized coaching for corporate meetings and call centers.
+
+Combined implementation with client interviews, competitive research, PRDs, and MRDs that helped reshape the product. Collaborated with scholars in Berkeley and researchers in Europe and Asia.
+
+Presented the work at the Berkeley Innovation Forum at NASA Ames in April 2026.
+
+EXPERIENCE — TRIVIUM
+
+Software Engineer & Product Management Intern
+Trivium · 2023–2024
+
+Built and deployed two production-ready LLM agents for financial analysis and wildfire-risk exploration. Integrated GPT-4 and Gemini, refined prompts and outputs, and automated graph creation through dynamic code execution.
+
+Conducted more than 15 customer and vendor interviews. Translated the findings into PRDs, MRDs, MVP priorities, product-roadmap decisions, user workflows, and interactive wireframes for self-service analytics.
+
+CASE STUDY — SOMA
+
+Meeting intelligence, from transcript to coaching.
+
+A useful meeting coach needs to examine what happens within the conversation. At SOMA, I built an MVP around a custom model that scored transcripts on dimensions including agenda setting, decision clarity, and warmth.
+
+The model ran on-premises. GPT and Gemini integrations extended the MVP into a customized coaching experience intended for corporate meetings and call centers.
+
+My role combined AI/ML engineering and product management. Client interviews and competitive research informed the PRDs and MRDs, while collaboration with scholars in Berkeley and researchers in Europe and Asia helped shape the work.
+
+I presented the project at the Berkeley Innovation Forum at NASA Ames in April 2026. My event credential identified my SOMA role as Founding Engineer.
+
+Suggested visual: the NASA Ames portrait, readable badge detail, and a simple conceptual explanation of transcript scoring. Show the three confirmed dimensions by name. Do not invent scoring scales, weights, model accuracy, or example scores.
+
+CASE STUDY — CFO AGENT
+
+Financial statements into questions, comparisons, and charts.
+
+I built an agent that processed income statements, balance sheets, cash-flow statements, and other financial documents to generate insights, industry benchmarks, forecasts, and tailored recommendations.
+
+The workflow also generated and executed code to create graphs dynamically, replacing manual graph assembly.
+
+The application included privacy controls for sensitive financial data.
+
+Editorial note: keep the 90% result on the Trivium overview, tied to manual graph creation. Do not duplicate it as a separately measured result for each agent.
+
+CASE STUDY — WILDFIRE AGENT
+
+Exploring wildfire risk through an AI agent.
+
+I developed a GPT-based agent for wildfire-risk analysis and custom visual analytics using the US Wildfires Database. The workflow was designed to help users explore fire risk, including questions relevant to utility operations.
+
+The work involved prompt refinement and application development.
+
+Implementation note: keep the exact GPT version unspecified unless confirmed.
+
+Suggested visual: a documented interface if supplied, or an explicitly illustrative explanation of the workflow. Do not fabricate a predictive-accuracy chart or imply live operational coverage.
+
+CASE STUDY — MARSH
+
+A central application for accounting memos.
+
+During my Finance Innovation Technology internship at Marsh, I worked on full-stack development of a centralized accounting memo application.
+
+Frequent presentations to stakeholders and controllers formed part of the work, bringing the application's implementation into regular discussion with its business users.
+
+Suggested visual: the supplied New York photograph beside the experience overview. Add actual application visuals only if they can be shared.
+
+ABOUT — SHORT PROFESSIONAL BIO
+
+Rohan Chaudri is an AI Engineer at Texas Instruments. His work spans LLM agents, conversation analysis, enterprise applications, and graph databases.
+
+Before joining TI, he worked on a centralized accounting memo application at Marsh, a real-time meeting coach at SOMA, and financial-analysis and wildfire agents at Trivium. His experience combines hands-on engineering with customer research, product definition, and stakeholder communication.
+
+He presented SOMA's meeting-coach work at the Berkeley Innovation Forum at NASA Ames in April 2026.
+
+CONTACT
+
+Get in touch
+
+For professional conversations and collaborations, reach me by email or connect on LinkedIn.
+
+Retain the current confirmed contact destinations from the site. Display a working résumé link only after a current file is supplied.
+
+18. IMPLEMENTATION HANDOFF
+
+Use the original design direction and the resolved facts in this edition together. The deliverable is a complete professional website redesign with a clear visual identity, meaningful case studies, coherent photo treatment, and accurate copy.
+
+Order the career timeline newest first. Feature SOMA and Trivium prominently because their supplied detail supports the strongest case studies; make the current TI role immediately visible. Integrate the hand and other verified background material according to the established page structure.
+
+Use the supplied filenames and captions for the photographs. Do not infer scene locations from attachment order. Keep the same asset identity when producing responsive web derivatives during implementation.
+
+The private CFO implementation details are intentionally absent. The brief public phrase is sufficient.
+
+Any explanatory schematic must match the confirmed scope and be identified as conceptual when it is not the actual system architecture. Keep unconfirmed implementation details out of the published pages.
+
+Carry the chosen RC mark through the favicon, wordmark, social preview, and footer. Use real project material and carefully typeset copy to create the requested premium presentation.
+
+Prepare a reviewable website before publication. This handoff itself does not change the live site.
+
+SOURCES AND REVIEW NOTES
+
+[1] Homepage, public assets, and metadata: https://rohanchaudri.com/
+[2] Experience: https://rohanchaudri.com/experience.html
+[3] Projects: https://rohanchaudri.com/projects.html
+[4] Education: https://rohanchaudri.com/education.html
+[5] Recommendations: https://rohanchaudri.com/recommendations.html
+[6] Contact: https://rohanchaudri.com/contact.html
+[7] OpenAI, GPT-5.1 introduction, November 12, 2025: https://openai.com/index/gpt-5-1/
+[8] Google, Gemini 3 introduction, November 18, 2025: https://blog.google/products-and-platforms/products/gemini/gemini-3/
+[9] Georgia Tech, official program name and available tracks: https://pe.gatech.edu/degrees/analytics
+[10] Rohan's direct career account and technical clarifications in this conversation, November 5, 2026.
+[11] Supplied photographs inspected locally: IMG_5611.jpg (NASA portrait), IMG_5614.jpg (Forum badge), and IMG_6128.jpg (New York city view). Event dates and Founding Engineer wording are visible on the badge; NASA Ames venue and the project presentation are identified by Rohan.
+
+The current Projects page links a 2016 California State Science Fair profile at https://csef.usc.edu/History/2016/pictures/Portrait/41058.html . The external page could not be fetched in this review, so it was not used as independent confirmation of an award.
+
+The career details and proposed copy incorporate Rohan's latest clarifications. Unanswered background items remain identified in Section 4. Private personal history and the CFO privacy mechanism's implementation details are outside the proposed public content.
