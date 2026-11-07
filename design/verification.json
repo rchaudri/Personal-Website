@@ -14,11 +14,14 @@
   "failures": [],
   "static_checks": "passed",
   "recommendations": "Both complete original texts preserved verbatim. Two exact excerpts restored to homepage after selected work. Main navigation restored.",
-  "photography": "Context photographs by Emile Perron and Adam Vradenburg replace the glowing files and smoke image.",
+  "photography": "XML/code-tooling photograph by Emile Perron is preserved. Wildfire work now uses an illustrative analytics-report image with sample data.",
   "titles": "Plain ASCII hyphens in all page, sharing, and structured-data titles.",
   "lead_project": "Independent bionic hand with handshake photograph first",
   "source_photo_hashes": "6 owner-supplied originals verified",
   "recognition": "Original Senate certificate remains prominent on homepage",
   "SOMA": "Existing NLP and LLM integrations; no custom model or on-premises claim in active pages",
-  "publication": "Local review; no source push or deployment"
+  "publication": "Local review; no source push or deployment",
+  "SOMA_dimensions": "Editorial layout with an integrated workflow and three visible dimension rows; no repeated card grid. Verified at six viewport widths and without JavaScript.",
+  "SOMA_dimension_review": "design/soma-analysis-verification.json",
+  "wildfire_report_review": "design/wildfire-report-verification.json"
 }

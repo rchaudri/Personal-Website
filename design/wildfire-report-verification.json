@@ -1,0 +1,21 @@
+{
+  "review_date": "2026-11-06",
+  "checks": 22,
+  "pages": [
+    "index.html",
+    "projects.html",
+    "trivium.html",
+    "wildfire-agent.html"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "failures": [],
+  "image": "Illustrative wildfire analytics report with sample data",
+  "framing": "Complete 3:2 report preserved without cropping charts",
+  "original_viewer": "Opens full PNG and returns focus on close",
+  "XML_tooling": "Page and image files verified byte-identical before and after"
+}

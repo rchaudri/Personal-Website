@@ -162,18 +162,6 @@
     }));
   }
 
-  const dimensions = {
-    agenda: ['Agenda setting', 'The structure of the conversation: how its purpose and topics are established.'],
-    clarity: ['Decision clarity', 'The clarity of the conversation: how decisions and their meaning are expressed.'],
-    warmth: ['Warmth', 'The interpersonal tone of the conversation: how participants relate to one another.']
-  };
-  $$('[data-dimension]').forEach(button => button.addEventListener('click', () => {
-    const dimension = dimensions[button.dataset.dimension];
-    $$('[data-dimension]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
-    $('#dimension-title').textContent = dimension[0];
-    $('#dimension-description').textContent = dimension[1];
-  }));
-
   // Original prototype photographs lead the homepage; every view retains its source.
   const handViews = $$('[data-hand-view]');
   const handImage = $('#hand-hero-image');

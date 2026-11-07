@@ -39,6 +39,13 @@
     "creator": "Adam Vradenburg",
     "source": "https://unsplash.com/photos/aerial-view-of-trees-and-mountain-sWAAhaoVuko",
     "license": "Unsplash License",
-    "usage": "Contextual forest landscape on the homepage, work index, and Trivium/Wildfire profiles; not a risk map or agent output."
+    "usage": "Retired context photograph; no longer displayed on the website."
+  },
+  {
+    "file": "assets/source/wildfire-analytics-report.png",
+    "creator": "Generated for this portfolio using the built-in image-generation tool",
+    "source": "assets/source/wildfire-analytics-prompt.txt",
+    "license": "AI-generated illustration created for this site",
+    "usage": "Illustrative analytics report with sample data. Used for wildfire work on the homepage, work index, and Trivium/Wildfire profiles. It is not represented as an actual agent output or risk assessment."
   }
 ]

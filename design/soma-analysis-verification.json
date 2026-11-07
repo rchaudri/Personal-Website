@@ -1,0 +1,54 @@
+{
+  "review_date": "2026-11-06",
+  "layout": "One composition with a compact teal workflow rail and visible editorial dimension rows",
+  "responsive_checks": [
+    {
+      "width": 320,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    },
+    {
+      "width": 900,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "dimensions": "all three visible",
+      "body_text": "18px",
+      "workflow": "three compact steps"
+    }
+  ],
+  "javascript_disabled": "all dimension descriptions and workflow steps remain readable",
+  "navigation": "section anchor and mobile menu passed",
+  "forum_image_viewer": "passed",
+  "copy": "existing NLP/LLM integrations only; no training or hosting claims",
+  "static_checks": "passed",
+  "failures": []
+}

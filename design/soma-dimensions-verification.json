@@ -1,0 +1,38 @@
+{
+  "review_date": "2026-11-06",
+  "checks": [
+    {
+      "width": 320,
+      "dimensions": "all three populated and visible",
+      "workflow": "all three populated",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "dimensions": "all three populated and visible",
+      "workflow": "all three populated",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "dimensions": "all three populated and visible",
+      "workflow": "all three populated",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "dimensions": "all three populated and visible",
+      "workflow": "all three populated",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "dimensions": "all three populated and visible",
+      "workflow": "all three populated",
+      "overflow": false
+    }
+  ],
+  "javascript_disabled": "all three dimensions and descriptions remain visible",
+  "shared_script": "navigation and hand photo selection passed",
+  "model_copy": "NLP/LLM integration wording verified; no on-premises claim in active pages"
+}

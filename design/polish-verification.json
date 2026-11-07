@@ -14,6 +14,7 @@
   "failures": [],
   "static_checks": "passed",
   "recommendations": "Both complete original texts preserved verbatim. Two exact excerpts restored to homepage after selected work. Main navigation restored.",
-  "photography": "Context photographs by Emile Perron and Adam Vradenburg replace the glowing files and smoke image.",
-  "titles": "Plain ASCII hyphens in all page, sharing, and structured-data titles."
+  "photography": "XML/code-tooling photograph by Emile Perron is preserved. Wildfire work now uses an illustrative analytics-report image with sample data.",
+  "titles": "Plain ASCII hyphens in all page, sharing, and structured-data titles.",
+  "wildfire_report_review": "design/wildfire-report-verification.json"
 }

@@ -32,10 +32,10 @@ python3 scripts/check_site.py
 
 The six supplied original photographs are preserved byte-for-byte. `assets/asset-map.json` records their assignments and SHA-256 hashes. The existing hand photographs and Senate certificate remain at the root; web derivatives live in `assets/media/`.
 
-The code-intelligence and document-tools profile uses quiet, naturally lit software-development photography by Emile Perron. The wildfire work uses a forest landscape by Adam Vradenburg. Both are captioned as context photographs and credited in the case studies; neither is presented as an internal project screenshot, risk map, or agent output. Source photographs live in `assets/source/`, with responsive WebP derivatives in `assets/media/`. The earlier glowing-file illustration and smoke satellite image are retired.
+The code-intelligence and document-tools profile uses quiet, naturally lit software-development photography by Emile Perron. The wildfire work uses an illustrative analytics report showing incident trends, regional comparisons, and a spatial overview. It uses the site’s teal, ivory, and copper palette and is explicitly labeled as sample data. The built-in image-generation tool created the report image; its prompt is saved in `assets/source/wildfire-analytics-prompt.txt`. The XML/code-tooling photograph remains unchanged. Source photographs live in `assets/source/`, with responsive WebP derivatives in `assets/media/`. The earlier glowing-file illustration, smoke satellite image, and forest context image are retired.
 
 - [Emile Perron / Unsplash - software-development workspace](https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4)
-- [Adam Vradenburg / Unsplash - forest landscape](https://unsplash.com/photos/aerial-view-of-trees-and-mountain-sWAAhaoVuko)
+- Wildfire report artwork: `assets/source/wildfire-analytics-report.png`, with responsive WebP copies in `assets/media/`.
 
 The portrait favicon uses the selected IMG_3231.jpg source, preserved as `assets/rohan-favicon-source.jpg`. Its crop is recorded in `assets/identity/portrait-crop.json`; all required PNG, ICO, Apple, and manifest sizes share that crop. The original colors and appearance are preserved.
 
@@ -43,7 +43,7 @@ The portrait favicon uses the selected IMG_3231.jpg source, preserved as `assets
 
 The existing public URLs are preserved. `projects.html` contains five distinct profiles: Texas Instruments, Marsh, SOMA, Trivium, and the independent bionic hand. The CFO and Wildfire pages are detailed subprojects within the Trivium role. Search, topic filters, a shareable query, and an empty-state reset support exploration. The slash key focuses work search.
 
-Case studies have native section links and a sticky reading index. SOMA dimensions, image dialogs, and the hand gallery support touch and keyboard use. Native image dialogs contain focus and restore it when closed. Content and navigation remain available without JavaScript. Reduced-motion preferences are respected.
+Case studies have native section links and a sticky reading index. SOMA uses one editorial composition: a compact teal workflow rail beside three open dimension rows, with a simple stacked layout on phones. Every explanation is present directly in HTML and remains readable without JavaScript. Page-specific presentation lives in `assets/css/soma.css`. Image dialogs and the hand gallery support touch and keyboard use. Native image dialogs contain focus and restore it when closed. Content and navigation remain available without JavaScript. Reduced-motion preferences are respected.
 
 The canonical homepage is the root URL. `CNAME`, the Google verification file, the existing Analytics property, and the stable `https://rohanchaudri.com/#person` identifier are preserved. The sitemap includes the case studies and excludes the duplicate `index.html` URL.
 
