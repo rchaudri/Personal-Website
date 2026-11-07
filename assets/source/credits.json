@@ -11,7 +11,7 @@
     "creator": "NASA Earth Observatory / Joshua Stevens; MODIS data from NASA EOSDIS/LANCE and GIBS/Worldview",
     "source": "https://science.nasa.gov/earth/earth-observatory/smoke-blows-over-the-pacific-147213/",
     "license": "NASA image; credit retained",
-    "usage": "Contextual wildfire photograph dated September 2, 2020; not output from the Trivium agent."
+    "usage": "Retired visual; no longer displayed on the website."
   },
   {
     "file": "assets/media/code-relationships.svg",
@@ -25,6 +25,20 @@
     "creator": "Generated for this portfolio using the built-in image-generation tool",
     "source": "assets/source/code-intelligence-image-prompt.txt",
     "license": "AI-generated asset created for this site",
-    "usage": "Editorial illustration of code dependencies. Used on the homepage, work index, and Texas Instruments profile. WebP derivatives are responsive encodings of the original artwork."
+    "usage": "Retired visual; no longer displayed on the website."
+  },
+  {
+    "file": "assets/source/code-workstation-emile-perron.jpg",
+    "creator": "Emile Perron",
+    "source": "https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4",
+    "license": "Unsplash License",
+    "usage": "Contextual software-development photography on the homepage, work index, and Texas Instruments profile; not an internal project screenshot."
+  },
+  {
+    "file": "assets/source/forest-adam-vradenburg.jpg",
+    "creator": "Adam Vradenburg",
+    "source": "https://unsplash.com/photos/aerial-view-of-trees-and-mountain-sWAAhaoVuko",
+    "license": "Unsplash License",
+    "usage": "Contextual forest landscape on the homepage, work index, and Trivium/Wildfire profiles; not a risk map or agent output."
   }
 ]

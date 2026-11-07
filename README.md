@@ -23,7 +23,8 @@ python3 scripts/check_site.py
 - Rohan’s name and current Texas Instruments role remain immediately visible. The Senate feature follows the career strip. The homepage education feature includes the Berkeley graduation portrait and commencement image. The graduation image retains its natural proportions and its cap, stole, seal, and hands.
 - Use direct project and role descriptions. The rejected slogan has been removed from page copy, sharing artwork, and the identity reference.
 - Body text is generally 18–20 pixels, with 17–18 pixel project descriptions. Navigation, roles, dates, and captions remain readable at phone sizes.
-- Headings and the wordmark have no decorative periods.
+- Headings and the wordmark have no decorative periods. Page titles, sharing titles, and structured page names use a plain ASCII hyphen as their separator.
+- Recommendations has a named homepage section directly after selected work, with exact excerpts from Chris Bush and Werner Fischer and links to their complete original texts. Recommendations is in the main navigation. The menu opens below 1001 pixels so the six destinations remain readable.
 - King of Fremont appears only as one understated footer link on each page.
 - Every professional work profile states the organization, exact role, dates, and contribution. Texas Instruments is current employment; SOMA, Marsh, and Trivium are previous roles.
 
@@ -31,9 +32,10 @@ python3 scripts/check_site.py
 
 The six supplied original photographs are preserved byte-for-byte. `assets/asset-map.json` records their assignments and SHA-256 hashes. The existing hand photographs and Senate certificate remain at the root; web derivatives live in `assets/media/`.
 
-The code-intelligence profile uses editorial artwork of interconnected source files, rendered in glass, teal, ivory, and copper. The built-in image-generation tool produced the original PNG in `assets/source/code-intelligence-editorial.png`; its complete prompt is saved in `assets/source/code-intelligence-image-prompt.txt`. The homepage, work index, and case study use responsive WebP derivatives. The case study provides a full-size viewer and access to the original. The earlier semiconductor photograph and flat vector diagram are retired. A NASA Earth Observatory wildfire image supplies contextual photography for Trivium; it is not presented as agent output. Original photography and source credits remain in `assets/source/`; web assets live in `assets/media/`.
+The code-intelligence and document-tools profile uses quiet, naturally lit software-development photography by Emile Perron. The wildfire work uses a forest landscape by Adam Vradenburg. Both are captioned as context photographs and credited in the case studies; neither is presented as an internal project screenshot, risk map, or agent output. Source photographs live in `assets/source/`, with responsive WebP derivatives in `assets/media/`. The earlier glowing-file illustration and smoke satellite image are retired.
 
-- [NASA Earth Observatory — Smoke Blows Over the Pacific](https://science.nasa.gov/earth/earth-observatory/smoke-blows-over-the-pacific-147213/)
+- [Emile Perron / Unsplash - software-development workspace](https://unsplash.com/photos/macbook-pro-showing-programming-language-xrVDYZRGdw4)
+- [Adam Vradenburg / Unsplash - forest landscape](https://unsplash.com/photos/aerial-view-of-trees-and-mountain-sWAAhaoVuko)
 
 The portrait favicon uses the selected IMG_3231.jpg source, preserved as `assets/rohan-favicon-source.jpg`. Its crop is recorded in `assets/identity/portrait-crop.json`; all required PNG, ICO, Apple, and manifest sizes share that crop. The original colors and appearance are preserved.
 
@@ -49,7 +51,7 @@ The canonical homepage is the root URL. `CNAME`, the Google verification file, t
 
 The career and photograph source is the revised master brief inside `Rohan_Chaudri_Graduation_Codex_Package.zip`. The original earlier brief and ZIP are also preserved. The user’s later instructions override the brief’s original placement recommendations: the hand leads the homepage, recognition remains prominent, the reading scale is larger, and the creative identity is only a footer link.
 
-SOMA uses the public period 2024–2026. The Forum badge’s Founding Engineer title stays within the event feature; NASA Ames Research Center is the Forum venue, stated directly in the visible photograph captions on the homepage, work index, and SOMA case study. Trivium uses GPT-4 and Gemini, with prompt refinement. The 90% result concerns manual graph creation. CFO privacy wording remains brief. Both complete recommendations retain their original wording.
+SOMA uses the public period 2024–2026. The owner’s latest correction describes the meeting coach as an application integrating existing NLP and LLM capabilities, including GPT and Gemini. Its workflow runs from transcripts through conversation analysis to coaching feedback. Earlier brief references to a custom model or on-premises deployment are superseded. The Forum badge’s Founding Engineer title stays within the event feature; NASA Ames Research Center is the Forum venue, stated directly in the visible photograph captions on the homepage, work index, and SOMA case study. Trivium uses GPT-4 and Gemini, with prompt refinement. The 90% result concerns manual graph creation. CFO privacy wording remains brief. Both complete recommendations retain their original wording.
 
 Georgia Tech completion details, exact Google credential wording, Mandarin proficiency, and detailed science-fair award labels remain unresolved. No current résumé was supplied, so no placeholder download is shown.
 
@@ -59,6 +61,6 @@ The static checker covers local links, anchors, assets, structured data, metadat
 
 This revision is prepared for local review. No source push or live deployment has been performed.
 
-The latest browser result is recorded in `design/verification.json`, with a current desktop screenshot in `design/homepage-preview.png`.
+The latest browser result is recorded in `design/verification.json`, with a current desktop screenshot in `design/homepage-preview.png`. The latest imagery and recommendations review is recorded in `design/polish-verification.json`.
 
 The current browser report covers all 15 pages at five viewport widths, photo selection, keyboard operation, horizontal touch swipes, original-image viewing, the conceptual graph viewer, and the retained Senate certificate viewer.

@@ -10,7 +10,7 @@ GitHub: https://github.com/rchaudri
 ## Experience
 - Texas Instruments — AI Engineer, September 2026–present. Neo4j graph databases for a code-intelligence initiative and a separate XML editor for an internal document engine.
 - Marsh — Finance Innovation Technology Intern, June–July 2026. Full-stack development of a centralized accounting memo application and presentations to stakeholders and controllers.
-- SOMA — AI/ML Engineer & Product Manager, 2024–2026. Custom on-premises ML model scored transcripts across more than ten dimensions, including agenda setting, decision clarity, and warmth. GPT and Gemini integrations supported customized coaching for meetings and call centers. Presented at the Berkeley Innovation Forum at NASA Ames in April 2026. Event credential: Founding Engineer.
+- SOMA — AI/ML Engineer & Product Manager, 2024–2026. Built a real-time meeting-coach MVP using existing NLP and LLM integrations, including GPT and Gemini. The application analyzed transcripts across more than ten dimensions, including agenda setting, decision clarity, and warmth, and provided tailored coaching for meetings and call centers. Presented at the Berkeley Innovation Forum at NASA Ames Research Center in April 2026. Event credential: Founding Engineer.
 - Trivium — Software Engineer & Product Management Intern, 2023–2024. Built and deployed two production-ready agents for financial analysis and wildfire-risk exploration. GPT-4 and Gemini integrations, prompt refinement, dynamic code execution, and graph generation. Reported 90% reduction in time spent on manual graph creation. Conducted 15+ customer and vendor interviews.
 
 ## Featured independent project

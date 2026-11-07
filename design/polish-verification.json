@@ -1,0 +1,19 @@
+{
+  "review_date": "2026-11-06",
+  "browser": "Google Chrome 156",
+  "checks": 109,
+  "responsive_pages": 15,
+  "widths": [
+    320,
+    390,
+    768,
+    1000,
+    1001,
+    1440
+  ],
+  "failures": [],
+  "static_checks": "passed",
+  "recommendations": "Both complete original texts preserved verbatim. Two exact excerpts restored to homepage after selected work. Main navigation restored.",
+  "photography": "Context photographs by Emile Perron and Adam Vradenburg replace the glowing files and smoke image.",
+  "titles": "Plain ASCII hyphens in all page, sharing, and structured-data titles."
+}

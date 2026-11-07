@@ -186,3 +186,34 @@
   html{scroll-behavior:auto}
   .nav>a,.card-arrow,.hand-view-options button,.zoom-label,.button,.arrow,.card-visual img,.project-image img{transition:none}
 }
+
+/* Keep all six destinations readable before the navigation becomes a menu. */
+@media(max-width:1000px){
+  .menu-toggle{display:block}
+  .nav{position:absolute;top:94px;left:0;right:0;background:var(--navy);padding:17px 28px 27px;display:none;flex-direction:column;align-items:stretch;gap:3px;border-bottom:1px solid #7da59d;max-height:calc(100dvh - 94px);overflow:auto}
+  .nav.is-open{display:flex}
+  .nav>a{font:400 24px/1.5 var(--display);padding:8px 0;min-height:52px}
+  .nav .nav-contact{padding:12px 17px;justify-content:space-between;font:600 17px var(--sans);margin-top:10px}
+}
+@media(max-width:760px){.nav{top:80px;padding-inline:24px;max-height:calc(100dvh - 80px)}}
+
+/* Context photographs use natural detail and a consistent editorial frame. */
+.editorial-card{aspect-ratio:1.5!important;border:1px solid #cbd9d5;background:#dce6e1}
+.editorial-card img{object-fit:cover}
+.editorial-card .photo-note{font-size:12px;background:linear-gradient(transparent,#102c34d9);color:#fff;padding-top:28px}
+.editorial-figure{margin-bottom:28px}
+.editorial-viewer{display:block;overflow:hidden;border:1px solid #c4d6d0;border-radius:13px;background:#e2e8e4}
+.editorial-viewer img{width:100%;height:auto;max-height:630px;object-fit:cover}
+.editorial-viewer .zoom-label{position:static;display:block;text-align:right;background:#e7efeb;border:0;border-top:1px solid #c4d6d0;color:#254f55;padding:11px 18px;font-size:14px}
+.editorial-viewer:hover .zoom-label{background:#d9e9e2}
+.editorial-figure figcaption{font-size:14px;line-height:1.8;color:var(--muted);margin-top:15px;max-width:850px}
+.editorial-figure figcaption a{text-decoration:underline;text-underline-offset:4px}
+.landscape-context{margin-block:0 30px}
+.landscape-context img{max-height:540px;aspect-ratio:2.1;object-fit:cover;object-position:50% 56%}
+.case-section .landscape-context{margin-top:30px}
+@media(max-width:760px){
+  .editorial-viewer{border-radius:10px}
+  .editorial-viewer .zoom-label{font-size:13px;padding:10px 13px}
+  .editorial-figure figcaption{font-size:14px;margin-top:13px}
+  .landscape-context img{aspect-ratio:1.5;min-height:210px}
+}

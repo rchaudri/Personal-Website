@@ -8,7 +8,7 @@
 
   const menu = $('.menu-toggle');
   const nav = $('#site-nav');
-  const mobile = matchMedia('(max-width: 760px)');
+  const mobile = matchMedia('(max-width: 1000px)');
   function closeMenu(restoreFocus = false) {
     nav?.classList.remove('is-open');
     menu?.setAttribute('aria-expanded', 'false');
